@@ -1,5 +1,6 @@
 //Lab01 Java file
 // Sample Java file
+//Edit by Muhammad Zaman 210073009
 void testMethod1()
   {
   //First command x = y + z
